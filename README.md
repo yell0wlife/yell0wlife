@@ -1,12 +1,12 @@
 
 <h1 align="center">404</h1>
 
-<p align="center"><strong style="color: #787878">There isn't a GitHub Pages site here.</strong></p>
+<p align="center"><strong style="color: #787878">Burada Github hakkında kısmı yok.</strong></p>
 
 <p align="center">
-If you're trying to publish one, <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">read the full documentation</a> to learn how to set up <br><strong style="color: #787880"> GitHub Pages </strong> for your repository, organization, or user account.
+Bir tane yayınlamaya çalışıyorsanız, nasıl kurulacağını öğrenmek için <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">tüm belgeleri</a> okuyun <br><strong style="color: #787880"> GitHub Sayfaları </strong> deponuz, kuruluşunuz veya kullanıcı hesabınız için.
 </p>
 <br>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> — <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Durum</a> — <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
 </p>
